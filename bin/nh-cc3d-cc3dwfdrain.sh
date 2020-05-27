@@ -22,7 +22,7 @@ echo ${TOOL_HOME}
 export LC_NUMERIC="C.UTF-8"
 
 
-CC3D_TOOL_NAME=cc3dwf
+CC3D_TOOL_NAME=cc3dwfdrain
 CC3D_TOOL_FILENAME=wetFoamDrainage.cc3d
 # CC3D_DEMO_PREFIX=Demos/BookChapterDemos_ComputationalMethodsInCellBiology/VascularTumor/
 USER_DEMO_PATH=$HOME/CompuCell3D_Demos/${CC3D_TOOL_NAME}
